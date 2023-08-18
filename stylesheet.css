@@ -1,0 +1,165 @@
+﻿body {
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	font-size: medium;
+	color: black;
+	background: white;
+	margin-bottom: 150px;
+}
+
+td  {
+	margin: 0px;
+	padding: 1px 5px;
+	white-space: nowrap;
+	vertical-align: top;
+}
+div {
+	margin: 25px auto;
+	padding: 5px;
+	/* width: 760px; */
+}
+table {
+	border-collapse: collapse;
+	margin: 25px auto;
+	padding: 5px;
+	/* width: 760px; */
+
+}
+a:link {
+	color: #993333;
+}
+a:hover {
+	color: #993333;
+	font-weight: bold;
+}
+a:active {
+	color: #CC3300;
+}
+a:hover, a:visited:hover {
+	color: #800000;
+	font-style: italic;
+}
+.title {
+	border-style: solid;
+	border-width: thin;
+	border-radius: 20px;
+	text-align: left;
+	background-image: url('imgs/header_redeq.png');
+	background-repeat: no-repeat;
+	background-position: right center;
+	margin: 25px auto;
+	padding: 0px 5px;
+	width: 750px;
+	height: 163px;
+}
+.title img {
+	height: 163px;
+}
+.h1 {
+	font-size: xx-large;
+	margin: 25px auto;
+	text-align: center;
+}
+.h2 {
+	font-size: x-large;
+	margin: 25px auto;
+	text-align: center;
+}
+.h3 {
+	font-size: large;
+	margin: 25px auto;
+	text-align: center;
+}
+.text {
+	width: 760px;
+	border: thin dotted #808080;
+}
+.tracklist {
+	width: 760px;
+	border: thin dotted #808080;
+}
+
+.mixextra {
+	padding: 0px 5px;
+	font-size: x-small;
+	text-align: right;
+	background-color: #FFFF00;
+}
+td.em {
+	width: 100%;
+	text-align: right;
+	font-style: italic;
+	font-size: x-small;
+}
+.image {
+	border: thin solid #808080;
+	margin: 25px auto;
+	padding: 0px;
+	width: 320px;
+	height: 320px;
+	vertical-align: middle;
+	text-align: center;
+	font-weight: bold;
+	font-size: larger;
+}
+.image img {
+	width: 100%;
+	height: 100%;
+}
+
+.even {
+	background-color: #CCCCCC;
+}
+.stats-div {
+	padding: 5px 0px 15px 8px;
+	margin: 5px 5px;
+	border: thin dotted #808080;
+	border-radius: 15px;
+	float: left;
+	width: 45%
+}
+
+.fulllisttable {
+	width: 750px;
+}
+.fulllisttitle {
+	font-weight: bolder;
+	font-size: large;
+	padding-top: 25px;
+}
+.fulllistempty {
+	width: 100px;
+	empty-cells: show;
+	font-style: oblique;
+	display: block;
+}
+
+@media (prefers-color-scheme: dark) {
+	body {
+		color: white;
+		background-color: #313338;
+	}
+	.title {
+		background-image: url('imgs/header_redeq-darkened.png');
+	}
+	.even {
+		background-color: #404040;
+	}
+	
+	a:link {
+		color: #CC6600;
+	}
+	a:hover, a:visited:hover {
+		color: #FFFF00;
+	}
+	a:active {
+		color: #FF0000;
+	}
+	a:visited {
+		color: #993300;
+		font-style: italic;
+	}
+	.mixextra {
+		background-color: #CC6600;
+		color: black;
+	}
+}
