@@ -38,7 +38,6 @@ mix39 ; Samination - Mix 39 - Xmas 2007 mix ; samination_mix39-xmas_2007_mix.mp3
 live02a ; Samination - Live 02.1 - The Swedish Candy Show 09-05-07 - Part 1 ; samination_live02a-candyshow070509.mp3 ; 2007 ; 192 ; 83380301
 live02b ; Samination - Live 02.2 - The Swedish Candy Show 09-05-07 - Part 2 ; samination_live02b-candyshow070509.mp3 ; 2007 ; 192 ; 84792806
 mix40 ; Samination - Mix 40 - Feelings of Silence ; samination_mix40-feelings_of_silence.mp3 ; 2008 ; 192 ; 108002046
-live05 ; Samination - Live 05 - The Swedish Candy Show 08-04-23 ; samination_live05-candyshow080423.mp3 ; 2008 ; 192 ; 87187709
 mix42 ; Samination - Mix 42 - Let Me Fix This! ; samination_mix42-let_me_fix_this!.ogg ; 2011 ; 484 ; 289390110
 mix43 ; Samination - Mix 43 - Xmas 2011 mix ; samination_mix43-xmas_2011_mix.ogg ; 2011 ; 484 ; 258318082
 mix44 ; Samination - Mix 44 - Law of Hardcore is My Way! ; samination_mix44-law_of_hardcore_is_my_way!.ogg ; 2011 ; 484 ; 285280262
@@ -74,3 +73,4 @@ mix41 ; Samination - Mix 41 - Fragments of War (Revisited) ; samination_revisite
 mix68 ; Samination - Mix 68 - The Randoms' Gallery ; samination_mix68-the_randoms_gallery.ogg ; 2021 ; 484 ; 227352240
 mix08 ; Samination - Mix 08 - Summer's Out (Revisited) ; samination_revisited_mix08.ogg ; 2022 ; 484 ; 276312779
 mix13 ; Samination - Mix 13 - X-mas 2004 Mix (Revisited) ; samination_revisited_mix13.ogg ; 2022 ; 484 ; 290800015
+live05 ; Samination - The Rave Must Go On (Live 5 Revisited) ; samination_revisited_live05.ogg ; 2023 ; 484 ; 219681748
