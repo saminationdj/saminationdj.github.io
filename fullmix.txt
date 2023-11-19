@@ -27,8 +27,8 @@ mix30 ; Samination - Mix 30 - Loituma Fantasy ; samination_mix30-loituma_fantasy
 mix31 ; Samination - Mix 31 - Makination of Hardcore ; samination_mix31-makination_of_hardcore.mp3 ; 2006 ; 192 ; 118719649
 mix32 ; Samination - Mix 32 - The Late One ; samination_mix32-the_late_one.mp3 ; 2006 ; 192 ; 112176261
 mix33 ; Samination - Mix 33 - November Falls ; samination_mix33-november_falls.mp3 ; 2006 ; 192 ; 102608552
-minimix01 ; Samination - Minimix 001 - Maquina Session ; samination_mix33-november_falls.mp3 ; 2006 ; 192 ; 102608552
-minimix02 ; Samination - Minimix 002 - Peryton 'Denver' Showcase mix ; samination_mix33-november_falls.mp3 ; 2006 ; 192 ; 102608552
+minimix01 ; Samination - Minimix 001 - Maquina Session ; samination_minimix01.mp3 ; 2006 ; 192 ; 44908860
+minimix02 ; Samination - Minimix 002 - Peryton 'Denver' Showcase mix ; samination_minimix02.mp3 ; 2006 ; 192 ; 24150312
 mix34 ; Samination - Mix 34 - X-mas 2006 Mix ; samination_mix34-x-mas_2006_mix.mp3 ; 2007 ; 192 ; 129780706
 mix35 ; Samination - Mix 35 - First of Seventh ; samination_mix35-1st_of7th.mp3 ; 2007 ; 192 ; 84983427
 mix36 ; Samination - Mix 36 - The Swedish Candyshop 07-03-28 (extended version) ; samination_mix36-extended_live_session.mp3 ; 2007 ; 192 ; 105790518
