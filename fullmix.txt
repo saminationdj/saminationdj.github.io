@@ -34,7 +34,6 @@ mix35 ; Samination - Mix 35 - First of Seventh ; samination_mix35-1st_of7th.mp3 
 mix36 ; Samination - Mix 36 - The Swedish Candyshop 07-03-28 (extended version) ; samination_mix36-extended_live_session.mp3 ; 2007 ; 192 ; 105790518
 mix37 ; Samination - Mix 37 - Into the Summer ; samination_mix37-into_the_summer.mp3 ; 2007 ; 192 ; 112576881
 mix38 ; Samination - Mix 38 - Mission Degree 3 ; samination_mix38-mission_degree_3.mp3 ; 2007 ; 192 ; 117858831
-mix39 ; Samination - Mix 39 - Xmas 2007 mix ; samination_mix39-xmas_2007_mix.mp3 ; 2007 ; 192 ; 141382201
 live02a ; Samination - Live 02.1 - The Swedish Candy Show 09-05-07 - Part 1 ; samination_live02a-candyshow070509.mp3 ; 2007 ; 192 ; 83380301
 live02b ; Samination - Live 02.2 - The Swedish Candy Show 09-05-07 - Part 2 ; samination_live02b-candyshow070509.mp3 ; 2007 ; 192 ; 84792806
 mix40 ; Samination - Mix 40 - Feelings of Silence ; samination_mix40-feelings_of_silence.mp3 ; 2008 ; 192 ; 108002046
@@ -75,3 +74,4 @@ mix08 ; Samination - Mix 08 - Summer's Out (Revisited) ; samination_revisited_mi
 mix13 ; Samination - Mix 13 - X-mas 2004 Mix (Revisited) ; samination_revisited_mix13.ogg ; 2022 ; 484 ; 290800015
 live05 ; Samination - The Rave Must Go On (Live 5 Revisited) ; samination_revisited_live05.ogg ; 2023 ; 484 ; 219681748
 mix69 ; Samination - Mix 69 - 20th Anniversary Mix ; samination_mix69-20th_anniversary_mix.ogg ; 2023 ; 484 ; 219001366
+mix39 ; Samination - Mix 39 - Xmas 2007 mix ; samination_revisited_mix39.ogg ; 2023 ; 484 ; 356978813
