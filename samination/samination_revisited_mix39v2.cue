@@ -2,27 +2,27 @@ TITLE "Samination - Mix 39 - Xmas 2007 mix (Reshortened)"
 PERFORMER "Various Artists"
 FILE "samination_revisited_mix39v2.ogg" WAVE
 	TRACK 01 AUDIO
-		TITLE "Forever (ft Marian Dacal) (Edit)"
+		TITLE "Forever (ft Marian Dacal)"
 		PERFORMER "DJ Francis"
 		INDEX 01 00:00:00
 	TRACK 02 AUDIO
-		TITLE "K-Bolo (Edit)"
+		TITLE "K-Bolo"
 		PERFORMER "Abraham K-Ostias"
 		INDEX 01 02:41:00
 	TRACK 03 AUDIO
-		TITLE "Activity Two (Edit)"
+		TITLE "Activity Two"
 		PERFORMER "Cross B vs Raul Lokura"
 		INDEX 01 05:10:24
 	TRACK 04 AUDIO
-		TITLE "Ob-Sex-ion (Edit)"
+		TITLE "Ob-Sex-ion"
 		PERFORMER "Abraham K-Ostias"
 		INDEX 01 08:43:51
 	TRACK 05 AUDIO
-		TITLE "Log-in (Edit)"
+		TITLE "Log-in"
 		PERFORMER "Ruge & Mad Core"
 		INDEX 01 10:30:27
 	TRACK 06 AUDIO
-		TITLE "Sadness (Edit)"
+		TITLE "Sadness"
 		PERFORMER "Dj Leño"
 		INDEX 01 14:03:51
 	TRACK 07 AUDIO
@@ -50,30 +50,30 @@ FILE "samination_revisited_mix39v2.ogg" WAVE
 		PERFORMER "S3RL"
 		INDEX 01 40:44:20
 	TRACK 13 AUDIO
-		TITLE "It Ain't Over (AC Slater remix) (Edit)"
+		TITLE "It Ain't Over (AC Slater remix)"
 		PERFORMER "Sunrize"
 		INDEX 01 44:49:45
 	TRACK 14 AUDIO
-		TITLE "Fcuk Around (Edit)"
+		TITLE "Fcuk Around"
 		PERFORMER "DJ Kurt"
 		INDEX 01 49:29:46
 	TRACK 15 AUDIO
-		TITLE "Search For Evolution (Edit)"
+		TITLE "Search For Evolution"
 		PERFORMER "Tazz vs Digital Anarchy"
 		INDEX 01 54:28:22
 	TRACK 16 AUDIO
-		TITLE "Morphed (Edit)"
+		TITLE "Morphed"
 		PERFORMER "Furious"
 		INDEX 01 57:47:00
 	TRACK 17 AUDIO
-		TITLE "Purple (Edit)"
+		TITLE "Purple"
 		PERFORMER "Re-Form"
 		INDEX 01 61:41:49
 	TRACK 18 AUDIO
-		TITLE "Mind Kontrol (Edit)"
+		TITLE "Mind Kontrol"
 		PERFORMER "The Acolyte"
 		INDEX 01 64:56:23
 	TRACK 19 AUDIO
-		TITLE "Death & Destruction (Edit)"
+		TITLE "Death & Destruction"
 		PERFORMER "Joey Riot"
 		INDEX 01 68:40:23
