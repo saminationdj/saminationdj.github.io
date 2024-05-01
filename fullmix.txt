@@ -1,6 +1,5 @@
 mix01 ; Samination - Mix 01 - Weekender ; samination_mix01-weekender.mp3 ; 2003 ; 192 ; 104834774
 mix02 ; Samination - Mix 02 - Still Rockin' ; samination_mix02-still_rockin.mp3 ; 2003 ; 192 ; 107496137
-mix03 ; Samination - Mix 03 - Vitality ; samination_mix03-vitality.mp3 ; 2003 ; 192 ; 114779275
 mix04 ; Samination - Mix 04 - Sonic Fusion ; samination_mix04-sonic_fusion.mp3 ; 2003 ; 192 ; 115886457
 mix05 ; Samination - Mix 05 - Mission Degree 1 ; samination_mix05-mission_degree_1.mp3 ; 2004 ; 192 ; 114830085
 mix06 ; Samination - Mix 06 - Mission Degree 2 ; samination_mix06-mission_degree_2.mp3 ; 2004 ; 192 ; 115322232
@@ -75,3 +74,4 @@ mix13 ; Samination - Mix 13 - X-mas 2004 Mix (Revisited) ; samination_revisited_
 live05 ; Samination - The Rave Must Go On (Live 5 Revisited) ; samination_revisited_live05.ogg ; 2023 ; 484 ; 219681748
 mix69 ; Samination - Mix 69 - 20th Anniversary Mix ; samination_mix69-20th_anniversary_mix.ogg ; 2023 ; 484 ; 219001366
 mix39 ; Samination - Mix 39 - Xmas 2007 mix (Revisited) ; samination_revisited_mix39.ogg ; 2023 ; 484 ; 356978813
+mix03 ; Samination - Mix 03 - Vitality (Revisited) ; samination_revisited_mix03.ogg ; 2024 ; 484 ; 278062931
