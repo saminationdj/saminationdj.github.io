@@ -23,7 +23,7 @@ FILE "samination_revisited_mix17v2.ogg" WAVE
 		INDEX 01 19:26:66
 	TRACK 06 AUDIO
 		TITLE "Are You Sure"
-		PERFORMER "Duncan Oathman"
+		PERFORMER "Duncan Oatham"
 		INDEX 01 24:46:67
 	TRACK 07 AUDIO
 		TITLE "Beast of Hardcore"

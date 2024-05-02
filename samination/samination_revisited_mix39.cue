@@ -28,7 +28,7 @@ FILE "samination_revisited_mix39.ogg" WAVE
 	TRACK 07 AUDIO
 		TITLE "7 Wonders"
 		PERFORMER "Double Decka"
-		INDEX 01 33:22:29
+		INDEX 01 32:22:29
 	TRACK 08 AUDIO
 		TITLE "Secrets Inside"
 		PERFORMER "Samba D & Kelly C"

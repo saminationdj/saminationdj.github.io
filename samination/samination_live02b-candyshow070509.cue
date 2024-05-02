@@ -13,7 +13,7 @@ FILE "samination_live02b-candyshow070509.mp3" MP3
     INDEX 01 06:13:00
   TRACK 03 AUDIO
     TITLE "Are You Sure"
-    PERFORMER "Duncan Oathman"
+    PERFORMER "Duncan Oatham"
     INDEX 01 10:29:00
   TRACK 04 AUDIO
     TITLE "Freefall"

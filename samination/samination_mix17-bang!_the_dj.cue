@@ -23,7 +23,7 @@ FILE "samination_mix17-bang!_the_dj.mp3" MP3
     INDEX 01 18:25:00
   TRACK 06 AUDIO
     TITLE "Are You Sure"
-    PERFORMER "Duncan Oathman"
+    PERFORMER "Duncan Oatham"
     INDEX 01 23:28:00
   TRACK 07 AUDIO
     TITLE "Beast of Hardcore"
