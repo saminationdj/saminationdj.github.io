@@ -1,22 +1,27 @@
 mix01 ; Samination - Mix 01 - Weekender ; samination_mix01-weekender.mp3 ; 2003 ; 192 ; 104834774
 mix02 ; Samination - Mix 02 - Still Rockin' ; samination_mix02-still_rockin.mp3 ; 2003 ; 192 ; 107496137
+mix03 ; Samination - Mix 03 - Vitality ; samination_mix03-vitality.mp3 ; 2003 ; 192 ; 114779275
 mix04 ; Samination - Mix 04 - Sonic Fusion ; samination_mix04-sonic_fusion.mp3 ; 2003 ; 192 ; 115886457
 mix05 ; Samination - Mix 05 - Mission Degree 1 ; samination_mix05-mission_degree_1.mp3 ; 2004 ; 192 ; 114830085
 mix06 ; Samination - Mix 06 - Mission Degree 2 ; samination_mix06-mission_degree_2.mp3 ; 2004 ; 192 ; 115322232
 mix07 ; Samination - Mix 07 - Failed Rescue Mission ; samination_mix07-failed_rescue_mission.mp3 ; 2004 ; 192 ; 116056385
+mix08 ; Samination - Mix 08 - Summer's Out ; samination_mix08-summers_out.mp3 ; 2004 ; 160 ; 93849463
 mix09 ; Samination - Mix 09 - Drug Addicted Hardcore ; samination_mix09-drug_addicted_hardcore.mp3 ; 2004 ; 160 ; 71338201
 mix10 ; Samination - Mix 10 - A Euphoric Beginning ; samination_mix10-a_euphoric_beginning.mp3 ; 2004 ; 192 ; 112468411
 mix11 ; Samination - Mix 11 - Mega Happy Hard ; samination_mix11-mega_happy_hard.mp3 ; 2004 ; 192 ; 115201854
 mix12 ; Samination - Mix 12 - Bright & Chemical ; samination_mix12-bright_and_chemical.mp3 ; 2004 ; 192 ; 115675197
+mix13 ; Samination - Mix 13 - X-mas 2004 Mix ; samination_mix13-x-mas_2004_mix.mp3 ; 2004 ; 192 ; 112564948
 mix14 ; Samination - Mix 14 - Addictive Frequencies ; samination_mix14-addictive_frequencies.mp3 ; 2005 ; 192 ; 115489631
 mix15 ; Samination - Mix 15 - Star Elements ; samination_mix15-star_elements.mp3 ; 2005 ; 192 ; 128477278
 mix16 ; Samination - Mix 16 - Angels & Exaltations ; samination_mix16-angels_and_exaltations.mp3 ; 2005 ; 192 ; 111161862
+mix17 ; Samination - Mix 17 - Bang! the DJ ; samination_mix17-bang!_the_dj.mp3 ; 2005 ; 192 ; 113522898
 mix18 ; Samination - Mix 18 - Innocent Hustler's Booty Calls ; samination_mix18-innocent_hustlers_booty_calls.mp3 ; 2005 ; 192 ; 115250777
 mix19 ; Samination - Mix 19 - Evolution of a Revolution ; samination_mix19-evolution_of_a_revolution.mp3 ; 2005 ; 192 ; 114412550
 mix20 ; Samination - Mix 20 - Can't Compete ; samination_mix20-cant_compete.mp3 ; 2005 ; 192 ; 116350413
 mix21 ; Samination - Mix 21 - Comet Catcher ; samination_mix21-comet_catcher.mp3 ; 2005 ; 192 ; 100139031
 mix22 ; Samination - Mix 22 - 20'000 Years of Darkness ; samination_mix22-20000_years_of_darkness.mp3 ; 2005 ; 192 ; 118476385
 mix23 ; Samination - Mix 23 - Promises of Light ; samination_mix23-promises_of_light.mp3 ; 2005 ; 192 ; 115447003
+mix24 ; Samination - Mix 24 - X-Mas 2005 Mix ; samination_mix24-x-mas_2005_mix.mp3 ; 2005 ; 192 ; 119812998
 mix25 ; Samination - Mix 25 - Have a Destructive NYE 2k5 ; samination_mix25-have_a_destructive_nye_2k5.mp3 ; 2005 ; 192 ; 112545548
 mix26 ; Samination - Mix 26 - Outstanding Freedom ; samination_mix26-outstanding_freedom.mp3 ; 2006 ; 192 ; 111506070
 mix27 ; Samination - Mix 27 - Sweet Lazarou ; samination_mix27-sweet_lazarou.mp3 ; 2006 ; 192 ; 114754227
@@ -35,7 +40,10 @@ mix37 ; Samination - Mix 37 - Into the Summer ; samination_mix37-into_the_summer
 mix38 ; Samination - Mix 38 - Mission Degree 3 ; samination_mix38-mission_degree_3.mp3 ; 2007 ; 192 ; 117858831
 live02a ; Samination - Live 02.1 - The Swedish Candy Show 09-05-07 - Part 1 ; samination_live02a-candyshow070509.mp3 ; 2007 ; 192 ; 83380301
 live02b ; Samination - Live 02.2 - The Swedish Candy Show 09-05-07 - Part 2 ; samination_live02b-candyshow070509.mp3 ; 2007 ; 192 ; 84792806
+mix39 ; Samination - Mix 39 - Xmas 2007 mix ; samination_mix39-xmas_2007_mix.mp3 ; 2007 ; 192 ; 141382201
 mix40 ; Samination - Mix 40 - Feelings of Silence ; samination_mix40-feelings_of_silence.mp3 ; 2008 ; 192 ; 108002046
+live05 ; Samination - Live 05 - The Swedish Candy Show 08-04-23 ; samination_live05-candyshow080423.mp3 ; 2008 ; 192 ; 87187709
+mix41 ; Samination - Mix 41 - Fragments of War ; samination_mix41-fragments_of_war.mp3 ; 2011 ; 256 ; 115202820
 mix42 ; Samination - Mix 42 - Let Me Fix This! ; samination_mix42-let_me_fix_this!.ogg ; 2011 ; 484 ; 289390110
 mix43 ; Samination - Mix 43 - Xmas 2011 mix ; samination_mix43-xmas_2011_mix.ogg ; 2011 ; 484 ; 258318082
 mix44 ; Samination - Mix 44 - Law of Hardcore is My Way! ; samination_mix44-law_of_hardcore_is_my_way!.ogg ; 2011 ; 484 ; 285280262
@@ -63,15 +71,15 @@ mix63 ; Samination - Mix 63 - Rocky Dreamscape ; samination_mix63-rocky_dreamsca
 mix64 ; Samination - Mix 64 - Hardcore Summer Bash 2016 ; samination_mix64-hsb_2016.ogg ; 2016 ; 484 ; 232985798
 mix65 ; Samination - Mix 65 - Ravechief ; samination_mix65-ravechief.ogg ; 2016 ; 484 ; 226651083
 mix66 ; Samination - Mix 66 - Perfect Shutdown ; samination_mix66-perfect_shutdown.ogg ; 2017 ; 484 ; 223600517
-mix17 ; Samination - Mix 17 - Bang! the DJ (Revisited) ; samination_revisited_mix17.ogg ; 2018 ; 484 ; 282324621
-mix24 ; Samination - Mix 24 - X-Mas 2005 Mix (Revisited) ; samination_revisited_mix24.ogg ; 2020 ; 484 ; 308429527
+revisited_mix17 ; Samination - Mix 17 - Bang! the DJ (Revisited) ; samination_revisited_mix17.ogg ; 2018 ; 484 ; 282324621
+revisited_mix24 ; Samination - Mix 24 - X-Mas 2005 Mix (Revisited) ; samination_revisited_mix24.ogg ; 2020 ; 484 ; 308429527
 mix67 ; Samination - Mix 67 - Second Hiatus Mix ; samination_mix67-second_hiatus_mix.ogg ; 2020 ; 484 ; 243357821
 journey2 ; Samination - Journey Through Hardcore: Years 1995 to 2000, Part 2 ; samination_hardcore-journey2_1995-2000_part_2.flac ; 2020 ; 1023 ; 483509745
-mix41 ; Samination - Mix 41 - Fragments of War (Revisited) ; samination_revisited_mix41.ogg ; 2021 ; 484 ; 217122050
+revisited_mix41 ; Samination - Mix 41 - Fragments of War (Revisited) ; samination_revisited_mix41.ogg ; 2021 ; 484 ; 217122050
 mix68 ; Samination - Mix 68 - The Randoms' Gallery ; samination_mix68-the_randoms_gallery.ogg ; 2021 ; 484 ; 227352240
-mix08 ; Samination - Mix 08 - Summer's Out (Revisited) ; samination_revisited_mix08.ogg ; 2022 ; 484 ; 276312779
-mix13 ; Samination - Mix 13 - X-mas 2004 Mix (Revisited) ; samination_revisited_mix13.ogg ; 2022 ; 484 ; 290800015
-live05 ; Samination - The Rave Must Go On (Live 5 Revisited) ; samination_revisited_live05.ogg ; 2023 ; 484 ; 219681748
+revisited_mix08 ; Samination - Mix 08 - Summer's Out (Revisited) ; samination_revisited_mix08.ogg ; 2022 ; 484 ; 276312779
+revisited_mix13 ; Samination - Mix 13 - X-mas 2004 Mix (Revisited) ; samination_revisited_mix13.ogg ; 2022 ; 484 ; 290800015
+revisited_live05 ; Samination - The Rave Must Go On (Live 5 Revisited) ; samination_revisited_live05.ogg ; 2023 ; 484 ; 219681748
 mix69 ; Samination - Mix 69 - 20th Anniversary Mix ; samination_mix69-20th_anniversary_mix.ogg ; 2023 ; 484 ; 219001366
-mix39 ; Samination - Mix 39 - Xmas 2007 mix (Revisited) ; samination_revisited_mix39.ogg ; 2023 ; 484 ; 356978813
-mix03 ; Samination - Mix 03 - Vitality (Revisited) ; samination_revisited_mix03.ogg ; 2024 ; 484 ; 278062931
+revisited_mix39 ; Samination - Mix 39 - Xmas 2007 mix (Revisited) ; samination_revisited_mix39.ogg ; 2023 ; 484 ; 356978813
+revisited_mix03 ; Samination - Mix 03 - Vitality (Revisited) ; samination_revisited_mix03.ogg ; 2024 ; 484 ; 278062931
