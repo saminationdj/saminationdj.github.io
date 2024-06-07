@@ -42,8 +42,8 @@ live02a ; Samination - Live 02.1 - The Swedish Candy Show 09-05-07 - Part 1 ; sa
 live02b ; Samination - Live 02.2 - The Swedish Candy Show 09-05-07 - Part 2 ; samination_live02b-candyshow070509.mp3 ; 2007 ; 192 ; 84792806
 mix39 ; Samination - Mix 39 - Xmas 2007 mix ; samination_mix39-xmas_2007_mix.mp3 ; 2007 ; 192 ; 141382201
 mix40 ; Samination - Mix 40 - Feelings of Silence ; samination_mix40-feelings_of_silence.mp3 ; 2008 ; 192 ; 108002046
-live05 ; Samination - Live 05 - The Swedish Candy Show 08-04-23 ; samination_live05-candyshow080423.mp3 ; 2008 ; 192 ; 87187709
 mix41 ; Samination - Mix 41 - Fragments of War ; samination_mix41-fragments_of_war.mp3 ; 2011 ; 256 ; 115202820
+live05 ; Samination - Live 05 - The Swedish Candy Show 08-04-23 ; samination_live05-candyshow080423.mp3 ; 2008 ; 192 ; 87187709
 mix42 ; Samination - Mix 42 - Let Me Fix This! ; samination_mix42-let_me_fix_this!.ogg ; 2011 ; 484 ; 289390110
 mix43 ; Samination - Mix 43 - Xmas 2011 mix ; samination_mix43-xmas_2011_mix.ogg ; 2011 ; 484 ; 258318082
 mix44 ; Samination - Mix 44 - Law of Hardcore is My Way! ; samination_mix44-law_of_hardcore_is_my_way!.ogg ; 2011 ; 484 ; 285280262
