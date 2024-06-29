@@ -90,6 +90,6 @@ FILE "samination_mix50-am_i_doing_it_right.ogg" WAVE
 		PERFORMER "Corruptive Chaos"
 		INDEX 01 70:46:35
 	TRACK 23 AUDIO
-		TITLE "Sena (Pitched to 220BPM mix)"
+		TITLE "Sena (215BPM pitched)"
 		PERFORMER "Le Dos-on"
 		INDEX 01 73:18:60
