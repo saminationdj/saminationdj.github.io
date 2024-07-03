@@ -72,8 +72,9 @@ a:hover, a:visited:hover {
 .menu {
 	width: 760px;
 	text-align: center;
-	font-size: x-large;
+	font-size: xx-large;
 	border: thin dotted #808080;
+	font-weight: bold;
 }
 .text {
 	width: 760px;
