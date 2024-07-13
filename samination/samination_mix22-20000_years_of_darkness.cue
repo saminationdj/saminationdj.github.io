@@ -19,7 +19,7 @@ FILE "samination_mix22-20000_years_of_darkness.mp3" MP3
     INDEX 01 11:08:30
   TRACK 05 AUDIO
     TITLE "Set You Free (Ballistic Bootlegs remix)"
-    PERFORMER "N-Trance"
+    PERFORMER "Double Decka"
     INDEX 01 16:16:30
   TRACK 06 AUDIO
     TITLE "Right Here"
