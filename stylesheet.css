@@ -85,14 +85,19 @@ a:hover, a:visited:hover {
 	border: thin dotted #808080;
 }
 
-.mixextra {
+.mixlistextra {
 	padding: 0px 5px;
 	font-size: x-small;
 	text-align: right;
 	background-color: #FFFF00;
 }
+.mixlistdate {
+	display: block;
+	width: 50px;
+	float: left;
+	font-style: italic;
+}
 td.em {
-	width: 100%;
 	text-align: right;
 	font-style: italic;
 	font-size: x-small;
@@ -115,6 +120,9 @@ td.em {
 
 .even {
 	background-color: #CCCCCC;
+}
+.trackartist, .tracktitle {
+	width: 49%;	
 }
 .stats-div {
 	padding: 5px 0px 15px 8px;
