@@ -132,6 +132,11 @@ td.em {
 	float: left;
 	width: 45%
 }
+#tracksdiv {
+	clear: both;
+	float: none;
+	width: 99%
+}
 
 .fulllisttable {
 	width: 750px;
