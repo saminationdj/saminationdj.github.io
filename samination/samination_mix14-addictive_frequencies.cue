@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 14 - Addictive Frequencies"
-PERFORMER "Various Artists"
+TITLE "Mix 14 - Addictive Frequencies"
+PERFORMER "Samination"
 FILE "samination_mix14-addictive_frequencies.mp3" MP3
   TRACK 01 AUDIO
     TITLE "F*cking wit da Frequency"

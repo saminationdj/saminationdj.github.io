@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 59 - Frozen Dreamscape"
-PERFORMER "Various Artists"
+TITLE "Mix 59 - Frozen Dreamscape"
+PERFORMER "Samination"
 FILE "samination_mix59-frozen_dreamscape.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Freezer"

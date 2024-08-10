@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 08 - Summer's Out (Revisited)"
-PERFORMER "Various Artists"
+TITLE "Mix 08 - Summer's Out (Revisited)"
+PERFORMER "Samination"
 FILE "samination_revisited_mix08.ogg" WAVE
   TRACK 01 AUDIO
     TITLE "Behind the Walls 2003"

@@ -1,5 +1,5 @@
-TITLE "Pschi vs Samination - What Are We Doing?"
-PERFORMER "Various Artists"
+TITLE "What Are We Doing?"
+PERFORMER "Pschi vs Samination"
 FILE "pschi_vs_samination-what_are_we_doing.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "Marunouchi Surviver"

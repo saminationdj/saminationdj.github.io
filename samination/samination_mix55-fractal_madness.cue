@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 55 - Fractal Madness"
-PERFORMER "Various Artists"
+TITLE "Mix 55 - Fractal Madness"
+PERFORMER "Samination"
 FILE "samination_mix55-fractal_madness.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Fractal"

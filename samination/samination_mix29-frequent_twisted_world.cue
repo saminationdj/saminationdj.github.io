@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 29 - Frequent Twisted World"
-PERFORMER "Various Artists"
+TITLE "Mix 29 - Frequent Twisted World"
+PERFORMER "Samination"
 FILE "samination_mix29-frequent_twisted_world.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Future World (Extended Bella Mix)"

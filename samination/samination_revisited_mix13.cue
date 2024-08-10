@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 13 - X-mas 2004 Mix (Revisited)"
-PERFORMER "Various Artists"
+TITLE "Mix 13 - X-mas 2004 Mix (Revisited)"
+PERFORMER "Samination"
 FILE "samination_revisited_mix13.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Body Slam"

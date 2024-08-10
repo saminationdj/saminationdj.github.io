@@ -1,5 +1,5 @@
 TITLE "The HappyHardcore.com Mix - Summer 2011"
-PERFORMER "Various Artists"
+PERFORMER "Samination"
 FILE "hhcmembersmixsummer2011.mp3" MP3
 	TRACK 01 AUDIO
 		TITLE "In Your Head"

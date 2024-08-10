@@ -1,8 +1,8 @@
 REM GENRE Hardcore
 REM DATE 2006
 REM COMMENT http://www.samination.se/
-PERFORMER "Various Artists"
-TITLE "Samination - Mix 26 - Outstanding Freedom"
+PERFORMER "Samination"
+TITLE "Mix 26 - Outstanding Freedom"
 FILE "samination_mix26-outstanding_freedom.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Heffalump Hardcore"

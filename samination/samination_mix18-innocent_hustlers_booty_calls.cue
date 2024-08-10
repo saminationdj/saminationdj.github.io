@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 18 - Innocent Hustler's Booty Calls"
-PERFORMER "Various Artists"
+TITLE "Mix 18 - Innocent Hustler's Booty Calls"
+PERFORMER "Samination"
 FILE "samination_mix18-innocent_hustlers_booty_calls.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Break Free"

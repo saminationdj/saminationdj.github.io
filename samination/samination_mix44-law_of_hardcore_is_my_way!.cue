@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 44 - Law of Hardcore is My Way!"
-PERFORMER "Various Artists"
+TITLE "Mix 44 - Law of Hardcore is My Way!"
+PERFORMER "Samination"
 FILE "samination_mix44-law_of_hardcore_is_my_way!.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Wham Bam"

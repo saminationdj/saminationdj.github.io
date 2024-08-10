@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 61 - To Finland with Freedom!"
-PERFORMER "Various Artists"
+TITLE "Mix 61 - To Finland with Freedom!"
+PERFORMER "Samination"
 FILE "samination_mix61-to_finland_with_freedom.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Bebop remix"

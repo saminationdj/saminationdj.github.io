@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 60 - Japanese Dreamscape"
-PERFORMER "Various Artists"
+TITLE "Mix 60 - Japanese Dreamscape"
+PERFORMER "Samination"
 FILE "samination_mix60-japanese_dreamscape.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Filiation (DJ-Technetium remix)"

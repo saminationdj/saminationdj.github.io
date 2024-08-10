@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 69 - 20th Anniversary Mix"
-PERFORMER "Various Artists"
+TITLE "Mix 69 - 20th Anniversary Mix"
+PERFORMER "Samination"
 FILE "samination_mix69-20th_anniversary_mix.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "The Journey"

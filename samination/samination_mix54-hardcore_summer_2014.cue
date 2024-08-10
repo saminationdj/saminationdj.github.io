@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 54 - Hardcore Summer 2014"
-PERFORMER "Various Artists"
+TITLE "Mix 54 - Hardcore Summer 2014"
+PERFORMER "Samination"
 FILE "samination_mix54-hardcore_summer_2014.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Romance Days"

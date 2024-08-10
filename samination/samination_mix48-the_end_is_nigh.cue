@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 48 - 2012 - The End is Nigh"
-PERFORMER "Various Artists"
+TITLE "Mix 48 - 2012 - The End is Nigh"
+PERFORMER "Samination"
 FILE "samination_mix48-the_end_is_nigh.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Underground Sky"

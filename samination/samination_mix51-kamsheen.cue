@@ -1,5 +1,5 @@
-PERFORMER "Various Artists"
-TITLE "Samination - Mix 51 - Kamsheen"
+PERFORMER "Samination"
+TITLE "Mix 51 - Kamsheen"
 FILE "samination_mix51-kamsheen.ogg" WAVE
   TRACK 01 AUDIO
     TITLE "I'm Sorry For Everything (10 Year anniversary remix)"

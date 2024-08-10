@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 19 - Evolution of a Revolution"
-PERFORMER "Various Artists"
+TITLE "Mix 19 - Evolution of a Revolution"
+PERFORMER "Samination"
 FILE "samination_mix19-evolution_of_a_revolution.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Dreamers of Dreams (US Trancecore remix)"

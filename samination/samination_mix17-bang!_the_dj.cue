@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 17 - Bang! the DJ"
-PERFORMER "Various Artists"
+TITLE "Mix 17 - Bang! the DJ"
+PERFORMER "Samination"
 FILE "samination_mix17-bang!_the_dj.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Shine A Light (Phosphor remix)"

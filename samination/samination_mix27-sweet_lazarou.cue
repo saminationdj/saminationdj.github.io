@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 27 - Sweet Lazarou"
-PERFORMER "Various Artists"
+TITLE "Mix 27 - Sweet Lazarou"
+PERFORMER "Samination"
 FILE "samination_mix27-sweet_lazarou.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Sweet"

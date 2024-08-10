@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 21 - Comet Catcher"
-PERFORMER "Various Artists"
+TITLE "Mix 21 - Comet Catcher"
+PERFORMER "Samination"
 FILE "samination_mix21-comet_catcher.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Blue Oceans"

@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 58 - Beeping Skulls"
-PERFORMER "Various Artists"
+TITLE "Mix 58 - Beeping Skulls"
+PERFORMER "Samination"
 FILE "samination_mix58-beeping_skulls.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Cracking Skulls"

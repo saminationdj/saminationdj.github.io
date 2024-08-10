@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 24 - X-Mas 2005 Mix (Revisited)"
-PERFORMER "Various Artists"
+TITLE "Mix 24 - X-Mas 2005 Mix (Revisited)"
+PERFORMER "Samination"
 FILE "samination_revisited_mix24.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Floordrop 'Set You Free'"

@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 40 - Feelings of Silence (Revisited)"
-PERFORMER "Various Artists"
+TITLE "Mix 40 - Feelings of Silence (Revisited)"
+PERFORMER "Samination"
 FILE "samination_revisited_mix40.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Feel of Feelings (DJ-Technetium remix)"

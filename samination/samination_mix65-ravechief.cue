@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 65 - Ravechief"
-PERFORMER "Various Artists"
+TITLE "Mix 65 - Ravechief"
+PERFORMER "Samination"
 FILE "samination_mix65-ravechief.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Momiji Hunting"

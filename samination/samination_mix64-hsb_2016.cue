@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 64 - Hardcore Summer Bash 2016"
-PERFORMER "Various Artists"
+TITLE "Mix 64 - Hardcore Summer Bash 2016"
+PERFORMER "Samination"
 FILE "samination_mix64-hsb_2016.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Free Your Energy"

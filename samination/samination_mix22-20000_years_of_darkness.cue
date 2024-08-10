@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 22 - 20'000 Years of Darkness"
-PERFORMER "Various Artists"
+TITLE "Mix 22 - 20'000 Years of Darkness"
+PERFORMER "Samination"
 FILE "samination_mix22-20000_years_of_darkness.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Intro"

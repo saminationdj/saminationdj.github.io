@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 28 - Raw Substance"
-PERFORMER "Various Artists"
+TITLE "Mix 28 - Raw Substance"
+PERFORMER "Samination"
 FILE "samination_mix28-raw_substance.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Substance"

@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 10 - A Euphoric Beginning"
-PERFORMER "Various Artists"
+TITLE "Mix 10 - A Euphoric Beginning"
+PERFORMER "Samination"
 FILE "samination_mix10-a_euphoric_beginning.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Like the World"

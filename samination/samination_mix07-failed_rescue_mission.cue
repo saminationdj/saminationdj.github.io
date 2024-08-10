@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 07 - Failed Rescue Mission"
-PERFORMER "Various Artists"
+TITLE "Mix 07 - Failed Rescue Mission"
+PERFORMER "Samination"
 FILE "samination_mix07-failed_rescue_mission.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Dark Skies"

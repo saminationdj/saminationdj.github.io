@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 01 - Weekender"
-PERFORMER "Various Artists"
+TITLE "Mix 01 - Weekender"
+PERFORMER "Samination"
 FILE "samination_mix01-weekender.mp3" MP3
   TRACK 01 AUDIO
     TITLE "6th Gate (Breeze & Styles rmx)"

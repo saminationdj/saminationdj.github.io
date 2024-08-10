@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 09 - Drug Addicted Hardcore"
-PERFORMER "Various Artists"
+TITLE "Mix 09 - Drug Addicted Hardcore"
+PERFORMER "Samination"
 FILE "samination_mix09-drug_addicted_hardcore.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Extremely Dangerous"

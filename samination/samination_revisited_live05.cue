@@ -1,5 +1,5 @@
-PERFORMER "Various Artists"
-TITLE "Samination - The Rave Must Go On (Live 05 Revisted)"
+PERFORMER "Samination"
+TITLE "The Rave Must Go On (Live 05 Revisted)"
 FILE "samination_revisited_live05.ogg" WAVE
   TRACK 01 AUDIO
     TITLE "Do It For Love (Extended mix)"

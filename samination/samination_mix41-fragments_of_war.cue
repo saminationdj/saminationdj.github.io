@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 41 - Fragments of War"
-PERFORMER "Various Artists"
+TITLE "Mix 41 - Fragments of War"
+PERFORMER "Samination"
 FILE "samination_mix41-fragments_of_war.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Nitro"

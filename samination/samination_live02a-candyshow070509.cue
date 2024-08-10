@@ -1,7 +1,7 @@
 REM GENRE Hardcore
 REM DATE 2007
-PERFORMER "Various Artists"
-TITLE "Samination - Live 02.1 - The Swedish Candy Show 09-05-07 - Part 1"
+PERFORMER "Samination"
+TITLE "Live 02.1 - The Swedish Candy Show 09-05-07 - Part 1"
 FILE "samination_live02a-candyshow070509.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Sweet (DJ Friez & JAKAZiD remix)"

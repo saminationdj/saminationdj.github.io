@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 66 - Perfect Shutdown"
-PERFORMER "Various Artists"
+TITLE "Mix 66 - Perfect Shutdown"
+PERFORMER "Samination"
 FILE "samination_mix66-perfect_shutdown.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "RGB Palette"

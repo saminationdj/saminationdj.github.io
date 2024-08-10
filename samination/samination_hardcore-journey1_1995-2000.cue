@@ -1,5 +1,5 @@
-TITLE "Samination - Journey Through Hardcore: Years 1995 to 2000"
-PERFORMER "Various Artists"
+TITLE "Journey Through Hardcore: Years 1995 to 2000"
+PERFORMER "Samination"
 FILE "samination_hardcore-journey1_1995-2000.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Wanting to Get high"

@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 33 - November Falls"
-PERFORMER "Various Artists"
+TITLE "Mix 33 - November Falls"
+PERFORMER "Samination"
 FILE "samination_mix33-november_falls.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Ordinary (Vocal mix)"

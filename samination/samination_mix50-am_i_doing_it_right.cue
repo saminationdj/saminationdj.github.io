@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 50 - Am I doing it Right?"
-PERFORMER "Various Artists"
+TITLE "Mix 50 - Am I doing it Right?"
+PERFORMER "Samination"
 FILE "samination_mix50-am_i_doing_it_right.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Hope Theres Someone"

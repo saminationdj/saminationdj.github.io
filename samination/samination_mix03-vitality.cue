@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 03 - Vitality"
-PERFORMER "Various Artists"
+TITLE "Mix 03 - Vitality"
+PERFORMER "Samination"
 FILE "samination_mix03-vitality.mp3" MP3
   TRACK 01 AUDIO
     TITLE "DOK's Symphony"

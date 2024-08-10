@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 23 - Promises of Light"
-PERFORMER "Various Artists"
+TITLE "Mix 23 - Promises of Light"
+PERFORMER "Samination"
 FILE "samination_mix23-promises_of_light.mp3" MP3
   TRACK 01 AUDIO
     TITLE "I Get A Rush"

@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 68 - The Randoms' Gallery"
-PERFORMER "Various Artists"
+TITLE "Mix 68 - The Randoms' Gallery"
+PERFORMER "Samination"
 FILE "samination_mix68-the_randoms_gallery.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Law Field"

@@ -1,5 +1,5 @@
-TITLE "DJ Bluecore vs Samination - Scandinavian Hardcore Fusion v2"
-PERFORMER "Various Artists"
+TITLE "Scandinavian Hardcore Fusion v2"
+PERFORMER "DJ Bluecore vs Samination"
 FILE "bluecore_vs_samination_-_scandinavian_hardcore_fusion_vol2.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Shiny Diskoballz"

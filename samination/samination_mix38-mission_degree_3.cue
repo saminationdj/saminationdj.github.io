@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 38 - Mission Degree 3"
-PERFORMER "Various Artists"
+TITLE "Mix 38 - Mission Degree 3"
+PERFORMER "Samination"
 FILE "samination_mix38-mission_degree_3.mp3" MP3
   TRACK 01 AUDIO
     TITLE "King Shit"

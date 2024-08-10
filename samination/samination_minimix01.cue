@@ -1,5 +1,5 @@
-TITLE "Samination - Minimix 001 - Maquina Session"
-PERFORMER "Various Artists"
+TITLE "Minimix 001 - Maquina Session"
+PERFORMER "Samination"
 FILE "samination_minimix01.mp3" MP3
   TRACK 01 AUDIO
     TITLE "I'm Flyin High"

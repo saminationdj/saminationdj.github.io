@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 37 - Into the Summer"
-PERFORMER "Various Artists"
+TITLE "Mix 37 - Into the Summer"
+PERFORMER "Samination"
 FILE "samination_mix37-into_the_summer.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Are You Ready"

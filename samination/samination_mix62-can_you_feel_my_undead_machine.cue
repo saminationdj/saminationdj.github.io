@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 62 - Can You Feel My Undead Machine?"
-PERFORMER "Various Artists"
+TITLE "Mix 62 - Can You Feel My Undead Machine?"
+PERFORMER "Samination"
 FILE "samination_mix62-can_you_feel_my_undead_machine.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Changing Every Day"

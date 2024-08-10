@@ -1,5 +1,5 @@
-PERFORMER "Various Artists"
-TITLE "Samination - Live 05 - The Swedish Candy Show 08-04-23"
+PERFORMER "Samination"
+TITLE "Live 05 - The Swedish Candy Show 08-04-23"
 FILE "samination_live05-candyshow080423.mp3" WAVE
   TRACK 01 AUDIO
     TITLE "Do It For Love (Extended mix)"

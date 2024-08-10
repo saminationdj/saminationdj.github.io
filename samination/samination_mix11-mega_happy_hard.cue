@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 11 - Mega Happy Hard"
-PERFORMER "Various Artists"
+TITLE "Mix 11 - Mega Happy Hard"
+PERFORMER "Samination"
 FILE "samination_mix11-mega_happy_hard.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Braveheart"

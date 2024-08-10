@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 02 - Still Rockin'"
-PERFORMER "Various Artists"
+TITLE "Mix 02 - Still Rockin'"
+PERFORMER "Samination"
 FILE "samination_mix02-still_rockin.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Lucky Star"

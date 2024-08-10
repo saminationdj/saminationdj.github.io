@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 04 - Sonic Fusion"
-PERFORMER "Various Artists"
+TITLE "Mix 04 - Sonic Fusion"
+PERFORMER "Samination"
 FILE "samination_mix04-sonic_fusion.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Outer Limit"

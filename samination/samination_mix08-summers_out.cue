@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 08 - Summer's Out"
-PERFORMER "Various Artists"
+TITLE "Mix 08 - Summer's Out"
+PERFORMER "Samination"
 FILE "samination_mix08-summers_out.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Behind the Walls 2003"

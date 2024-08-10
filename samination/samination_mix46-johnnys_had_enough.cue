@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 46 - Johnny's Had Enough"
-PERFORMER "Various Artists"
+TITLE "Mix 46 - Johnny's Had Enough"
+PERFORMER "Samination"
 FILE "samination_mix46-johnnys_had_enough.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Sacred Melody"

@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 03 - Vitality (Revisited)"
-PERFORMER "Various Artists"
+TITLE "Mix 03 - Vitality (Revisited)"
+PERFORMER "Samination"
 FILE "samination_revisited_mix03.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "DOK's Symphony"

@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 30 - Loituma Fantasy"
-PERFORMER "Various Artists"
+TITLE "Mix 30 - Loituma Fantasy"
+PERFORMER "Samination"
 FILE "samination_mix30-loituma_fantasy.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Shout Now (Hixxy & Sharkey remix)"

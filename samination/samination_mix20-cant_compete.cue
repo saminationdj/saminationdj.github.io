@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 20 - Can't Compete"
-PERFORMER "Various Artists"
+TITLE "Mix 20 - Can't Compete"
+PERFORMER "Samination"
 FILE "samination_mix20-cant_compete.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Music I Like"

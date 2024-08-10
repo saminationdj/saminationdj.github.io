@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 31 - Makination of Hardcore"
-PERFORMER "Various Artists"
+TITLE "Mix 31 - Makination of Hardcore"
+PERFORMER "Samination"
 FILE "samination_mix31-makination_of_hardcore.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Violet Skies"

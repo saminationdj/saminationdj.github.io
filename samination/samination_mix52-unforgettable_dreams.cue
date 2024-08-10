@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 52 - Unforgettable Dreams"
-PERFORMER "Various Artists"
+TITLE "Mix 52 - Unforgettable Dreams"
+PERFORMER "Samination"
 FILE "samination_mix52-unforgettable_dreams.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Unforgettable (Gammer remix)"

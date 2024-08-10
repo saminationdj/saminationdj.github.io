@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 53 - Ravers Technology"
-PERFORMER "Various Artists"
+TITLE "Mix 53 - Ravers Technology"
+PERFORMER "Samination"
 FILE "samination_mix53-ravers_technology.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Gold Harmony"

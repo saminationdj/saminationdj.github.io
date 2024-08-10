@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 32 - The Late One"
-PERFORMER "Various Artists"
+TITLE "Mix 32 - The Late One"
+PERFORMER "Samination"
 FILE "samination_mix32-the_late_one.mp3" MP3
   TRACK 01 AUDIO
     TITLE "The Way You Make Me Feel"

@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 43 - Xmas 2011 mix"
-PERFORMER "Various Artists"
+TITLE "Mix 43 - Xmas 2011 mix"
+PERFORMER "Samination"
 FILE "samination_mix43-xmas_2011_mix.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "The First Dimension"

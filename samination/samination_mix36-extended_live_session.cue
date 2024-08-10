@@ -1,5 +1,5 @@
-TITLE "Samination - The Swedish Candyshop 07-03-28 (extended version)"
-PERFORMER "Various Artists"
+TITLE "The Swedish Candyshop 07-03-28 (extended version)"
+PERFORMER "Samination"
 FILE "samination_mix36-extended_live_session.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Titles Suck"

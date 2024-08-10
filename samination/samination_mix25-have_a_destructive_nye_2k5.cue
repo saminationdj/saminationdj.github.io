@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 25 - Have a Destructive NYE 2k5"
-PERFORMER "Various Artists"
+TITLE "Mix 25 - Have a Destructive NYE 2k5"
+PERFORMER "Samination"
 FILE "samination_mix25-have_a_destructive_nye_2k5.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Higher Ground"

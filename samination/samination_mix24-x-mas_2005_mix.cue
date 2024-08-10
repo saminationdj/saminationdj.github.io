@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 24 - X-Mas 2005 Mix"
-PERFORMER "Various Artists"
+TITLE "Mix 24 - X-Mas 2005 Mix"
+PERFORMER "Samination"
 FILE "samination_mix24-x-mas_2005_mix.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Floordrop 'Set You Free'"

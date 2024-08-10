@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 17 - Bang! the DJ (Revisited)"
-PERFORMER "Various Artists"
+TITLE "Mix 17 - Bang! the DJ (Revisited)"
+PERFORMER "Samination"
 FILE "samination_revisited_mix17.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Shine A Light (Phosphor remix)"

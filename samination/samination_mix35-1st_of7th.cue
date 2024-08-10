@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 35 - First of Seventh"
-PERFORMER "Various Artists"
+TITLE "Mix 35 - First of Seventh"
+PERFORMER "Samination"
 FILE "samination_mix35-1st_of7th.mp3" MP3
 
   TRACK 01 AUDIO

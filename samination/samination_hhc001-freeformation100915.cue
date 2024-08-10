@@ -1,5 +1,5 @@
-TITLE "Samination - Freeformation Round 20 (10-09-2015)"
-PERFORMER "Various Artists"
+TITLE "Freeformation Round 20 (10-09-2015)"
+PERFORMER "Samination"
 FILE "samination_hhc001-freeformation100915.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "ET Life"

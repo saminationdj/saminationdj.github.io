@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 41 - Fragments of War (Revisited)"
-PERFORMER "Various Artists"
+TITLE "Mix 41 - Fragments of War (Revisited)"
+PERFORMER "Samination"
 FILE "samination_revisited_mix41.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Nitro"

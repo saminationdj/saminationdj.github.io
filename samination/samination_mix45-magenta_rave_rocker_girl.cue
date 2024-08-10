@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 45 - I cant get a Lovely Magenta Rave Rocker Girl"
-PERFORMER "Various Artists"
+TITLE "Mix 45 - I cant get a Lovely Magenta Rave Rocker Girl"
+PERFORMER "Samination"
 FILE "samination_mix45-magenta_rave_rocker_girl.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Bouna Fortuna"

@@ -1,5 +1,5 @@
-TITLE "Samination - Journey Through Hardcore: Years 1995 to 2000, Part 2"
-PERFORMER "Various Artists"
+TITLE "Journey Through Hardcore: Years 1995 to 2000, Part 2"
+PERFORMER "Samination"
 FILE "samination_hardcore-journey2_1995-2000_part_2.flac" FLAC
 	TRACK 01 AUDIO
 		TITLE "Truth"

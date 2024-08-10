@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 39 - Xmas 2007 mix"
-PERFORMER "Various Artists"
+TITLE "Mix 39 - Xmas 2007 mix"
+PERFORMER "Samination"
 FILE "samination_mix39-xmas_2007_mix.mp3" WAVE
   TRACK 01 AUDIO
     TITLE "Forever (ft Marian Dacal)"

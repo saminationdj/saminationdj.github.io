@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 13 - X-mas 2004 Mix"
-PERFORMER "Various Artists"
+TITLE "Mix 13 - X-mas 2004 Mix"
+PERFORMER "Samination"
 FILE "samination_mix13-x-mas_2004_mix.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Body Slam"

@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 42 - Let Me Fix This!"
-PERFORMER "Various Artists"
+TITLE "Mix 42 - Let Me Fix This!"
+PERFORMER "Samination"
 FILE "samination_mix42-let_me_fix_this!.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "All Honors"

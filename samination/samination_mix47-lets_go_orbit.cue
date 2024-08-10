@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 47 - Lets Go Orbit"
-PERFORMER "Various Artists"
+TITLE "Mix 47 - Lets Go Orbit"
+PERFORMER "Samination"
 FILE "samination_mix47-lets_go_orbit.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Demons"

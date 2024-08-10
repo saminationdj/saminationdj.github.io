@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 56 - Electric Dreamscape"
-PERFORMER "Various Artists"
+TITLE "Mix 56 - Electric Dreamscape"
+PERFORMER "Samination"
 FILE "samination_mix56-electric_dreamscape.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Flying High (RichBdaMAN remix)"

@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 05 - Mission Degree 1"
-PERFORMER "Various Artists"
+TITLE "Mix 05 - Mission Degree 1"
+PERFORMER "Samination"
 FILE "samination_mix05-mission_degree_1.mp3" MP3
   TRACK 01 AUDIO
     TITLE "6th Gate (Breeze & Styles rmx)"

@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 67 - Second Hiatus Mix"
-PERFORMER "Various Artists"
+TITLE "Mix 67 - Second Hiatus Mix"
+PERFORMER "Samination"
 FILE "samination_mix67-second_hiatus_mix.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "After All"

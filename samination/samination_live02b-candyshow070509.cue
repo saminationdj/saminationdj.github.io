@@ -1,7 +1,7 @@
 REM GENRE Hardcore
 REM DATE 2007
-PERFORMER "Various Artists"
-TITLE "Samination - Live 02.2 - The Swedish Candy Show 09-05-07 - Part 2"
+PERFORMER "Samination"
+TITLE "Live 02.2 - The Swedish Candy Show 09-05-07 - Part 2"
 FILE "samination_live02b-candyshow070509.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Wicked Plastic"

@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 49 - Do Not Attempt (To Kill the Rave)"
-PERFORMER "Various Artists"
+TITLE "Mix 49 - Do Not Attempt (To Kill the Rave)"
+PERFORMER "Samination"
 FILE "samination_mix49-do_not_attempt.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "We Killed The Rave"

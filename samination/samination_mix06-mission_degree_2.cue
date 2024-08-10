@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 06 - Mission Degree 2"
-PERFORMER "Various Artists"
+TITLE "Mix 06 - Mission Degree 2"
+PERFORMER "Samination"
 FILE "samination_mix06-mission_degree_2.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Future is Now"

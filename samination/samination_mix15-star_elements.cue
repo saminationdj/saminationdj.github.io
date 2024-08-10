@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 15 - Star Elements"
-PERFORMER "Various Artists"
+TITLE "Mix 15 - Star Elements"
+PERFORMER "Samination"
 FILE "samination_mix15-star_elements.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Stars"

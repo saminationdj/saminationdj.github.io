@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 16 - Angels & Exaltations"
-PERFORMER "Various Artists"
+TITLE "Mix 16 - Angels & Exaltations"
+PERFORMER "Samination"
 FILE "samination_mix16-angels_and_exaltations.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Everything Falls Apart"

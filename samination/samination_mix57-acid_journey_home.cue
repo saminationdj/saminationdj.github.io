@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 57 - Acid Journey Home"
-PERFORMER "Various Artists"
+TITLE "Mix 57 - Acid Journey Home"
+PERFORMER "Samination"
 FILE "samination_mix57-acid_journey_home.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Hyper Pressure"

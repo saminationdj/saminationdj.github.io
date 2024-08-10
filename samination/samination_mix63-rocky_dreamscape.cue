@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 63 - Rocky Dreamscape"
-PERFORMER "Various Artists"
+TITLE "Mix 63 - Rocky Dreamscape"
+PERFORMER "Samination"
 FILE "samination_mix63-rocky_dreamscape.ogg" WAVE
 	TRACK 01 AUDIO
 		TITLE "Infectious"

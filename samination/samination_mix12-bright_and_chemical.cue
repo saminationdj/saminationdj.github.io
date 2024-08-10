@@ -1,5 +1,5 @@
-TITLE "Samination - Mix 12 - Bright & Chemical"
-PERFORMER "Various Artists"
+PERFORMER "Samination"
+TITLE "Mix 12 - Bright & Chemical"
 FILE "samination_mix12-bright_and_chemical.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Don't Stop"
@@ -69,4 +69,3 @@ FILE "samination_mix12-bright_and_chemical.mp3" MP3
     TITLE "Hardcore Renegade"
     PERFORMER "DJ Dougal, Gammer & TKM"
     INDEX 01 75:15:00
- 
