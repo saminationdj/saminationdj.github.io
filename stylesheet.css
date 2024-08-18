@@ -25,18 +25,17 @@ table {
 
 }
 a:link {
-	color: #993333;
+	color: #FF0000;
+}
+a:visited {
+	color: #CC0000;
 }
 a:hover {
-	color: #993333;
+	color: #FF9999;
 	font-weight: bold;
 }
 a:active {
-	color: #CC3300;
-}
-a:hover, a:visited:hover {
-	color: #800000;
-	font-style: italic;
+	color: #FFFF00;
 }
 .title {
 	border-style: solid;
@@ -164,24 +163,23 @@ td.em {
 	.even {
 		background-color: #404040;
 	}
-	
 	a:link {
-		color: #CC6600;
-	}
-	a:hover, a:visited:hover {
-		color: #FFFF00;
-	}
-	a:active {
 		color: #FF0000;
 	}
 	a:visited {
-		color: #993300;
-		font-style: italic;
+		color: #AA0000;
+	}
+	a:hover {
+		color: #FF9999;
+		font-weight: bold;
+	}
+	a:active {
+		color: #FFFF00;
 	}
 	.mixlistextra {
-		background-color: #CC6600;
-		color: black;
-	}
+	background-color: #FF6666;
+	color: black;
+}
 }
 
 /* Extra bullshit */
