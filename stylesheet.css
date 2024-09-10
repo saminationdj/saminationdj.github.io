@@ -1,9 +1,55 @@
 ﻿body {
+	width: 100%;
 	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 	font-size: medium;
 	color: black;
 	background: white;
-	margin-bottom: 150px;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+#leftbackground {
+	background-size: 600px 1200px;
+	background-position: left top;
+	z-index: 2;
+	width: 50%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	background-image: url('/imgs/bkgrn_left.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+#rightbackground {
+	background-size: 600px 1200px;
+	background-position: right top;
+	z-index: 3;
+	width: 50%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	background-image: url('/imgs/bkgrn_right.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	position: absolute;
+	right: 0px;
+	top: 0px;
+}
+#maincontent {
+	overflow: auto;
+	z-index: 99;
+	width: 100%;
+	position: absolute;
+	height: 100%;
+	padding: 0px;
+	top: -25px;
+}
+#maincontent div {
+	background-color: rgba(255, 255, 255, 0.5);
+	width: 750px;
 }
 
 td  {
@@ -37,12 +83,13 @@ a:hover {
 a:active {
 	color: #FFFF00;
 }
+
 .title {
 	border-style: solid;
 	border-width: thin;
 	border-radius: 20px;
 	text-align: left;
-	background-image: url('imgs/header_redeq.png');
+	background-image: url('/imgs/header_redeq.png');
 	background-repeat: no-repeat;
 	background-position: right center;
 	margin: 25px auto;
@@ -53,6 +100,7 @@ a:active {
 .title img {
 	height: 163px;
 }
+
 .h1 {
 	font-size: xx-large;
 	margin: 25px auto;
@@ -105,8 +153,8 @@ td.em {
 	border: thin solid #808080;
 	margin: 25px auto;
 	padding: 0px;
-	width: 320px;
-	height: 320px;
+	width: 320px !important;
+	height: 320px !important;
 	vertical-align: middle;
 	text-align: center;
 	font-weight: bold;
@@ -157,8 +205,12 @@ td.em {
 		color: white;
 		background-color: #313338;
 	}
+	#maincontent div {
+		background-color: rgba(31, 33, 38, 0.5);
+	}
+
 	.title {
-		background-image: url('imgs/header_redeq-darkened.png');
+		background-image: url('/imgs/header_redeq-darkened.png');
 	}
 	.even {
 		background-color: #404040;
@@ -177,9 +229,7 @@ td.em {
 		color: #FFFF00;
 	}
 	.mixlistextra {
-	background-color: #FF6666;
-	color: black;
+		background-color: #FF6666;
+		color: black;
+	}
 }
-}
-
-/* Extra bullshit */
