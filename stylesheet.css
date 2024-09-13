@@ -39,7 +39,8 @@
 	top: 0px;
 }
 #maincontent {
-	overflow: auto;
+	overflow-y: scroll;
+	overflow-x: hidden;
 	z-index: 99;
 	width: 100%;
 	position: absolute;
@@ -47,8 +48,10 @@
 	padding: 0px;
 	top: -25px;
 }
-#maincontent div {
+#maincontent div, #maincontent table {
 	background-color: rgba(255, 255, 255, 0.5);
+}
+#maincontent div {
 	width: 750px;
 }
 
@@ -94,7 +97,7 @@ a:active {
 	background-position: right center;
 	margin: 25px auto;
 	padding: 0px 5px;
-	width: 750px;
+	width: 750px !important;
 	height: 163px;
 }
 .title img {
@@ -117,7 +120,7 @@ a:active {
 	text-align: center;
 }
 .menu {
-	width: 760px;
+	width: 750px;
 	text-align: center;
 	font-size: xx-large;
 	border: thin dotted #808080;
@@ -177,7 +180,7 @@ td.em {
 	border: thin dotted #808080;
 	border-radius: 15px;
 	float: left;
-	width: 45%
+	width: 45% !important;
 }
 #tracksdiv {
 	clear: both;
@@ -205,7 +208,7 @@ td.em {
 		color: white;
 		background-color: #313338;
 	}
-	#maincontent div {
+	#maincontent div, #maincontent table {
 		background-color: rgba(31, 33, 38, 0.5);
 	}
 
