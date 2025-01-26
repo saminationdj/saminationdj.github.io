@@ -1,4 +1,4 @@
-TITLE "Mix 03 - Vitality (Revisited)"
+TITLE "Mix 03 - Vitality (Revisited 2024)"
 PERFORMER "Samination"
 FILE "samination_revisited_mix03.ogg" WAVE
 	TRACK 01 AUDIO

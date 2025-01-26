@@ -1,4 +1,4 @@
-TITLE "Mix 39 - Xmas 2007 mix (Revisited)"
+TITLE "Mix 39 - Xmas 2007 mix (Revisited 2023)"
 PERFORMER "Samination"
 FILE "samination_revisited_mix39.ogg" WAVE
 	TRACK 01 AUDIO

@@ -1,4 +1,4 @@
-TITLE "Mix 17 - Bang! the DJ (Revisited)"
+TITLE "Mix 17 - Bang! the DJ (Revisited 2018)"
 PERFORMER "Samination"
 FILE "samination_revisited_mix17.ogg" WAVE
 	TRACK 01 AUDIO

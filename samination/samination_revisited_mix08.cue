@@ -1,4 +1,4 @@
-TITLE "Mix 08 - Summer's Out (Revisited)"
+TITLE "Mix 08 - Summer's Out (Revisited 2022)"
 PERFORMER "Samination"
 FILE "samination_revisited_mix08.ogg" WAVE
   TRACK 01 AUDIO

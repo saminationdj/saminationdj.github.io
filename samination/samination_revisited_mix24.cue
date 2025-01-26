@@ -1,4 +1,4 @@
-TITLE "Mix 24 - X-Mas 2005 Mix (Revisited)"
+TITLE "Mix 24 - X-Mas 2005 Mix (Revisited 2020)"
 PERFORMER "Samination"
 FILE "samination_revisited_mix24.ogg" WAVE
 	TRACK 01 AUDIO
