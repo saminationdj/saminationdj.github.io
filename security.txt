@@ -1,0 +1,4 @@
+Contact: mailto:admin@samination.se
+Expires: 9999-12-31T23:59:00Z
+Canonical: https://samination.se/security.txt
+Preferred-Languages: sv,en
